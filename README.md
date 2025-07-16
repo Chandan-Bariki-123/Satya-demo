@@ -1,2 +1,2 @@
 # Satya-demo
-This is the demo for git and git hub .
+This is the demo for git and git hub 
